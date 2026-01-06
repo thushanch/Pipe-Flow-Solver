@@ -1,0 +1,5 @@
+{
+  "name": "HydroFlow 3D Solver",
+  "description": "A professional-grade 3D pipe network hydraulic analyzer featuring Darcy-Weisbach, Hazen-Williams, and Manning physics engines with AI-driven engineering insights.",
+  "requestFramePermissions": []
+}
